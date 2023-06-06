@@ -7,6 +7,12 @@
   pointer-events: none;
 }
 
+.App-title {
+  color: white;
+  background-color: #282c34;
+  margin: 0%;
+  padding: 10px;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -36,3 +42,4 @@
     transform: rotate(360deg);
   }
 }
+
